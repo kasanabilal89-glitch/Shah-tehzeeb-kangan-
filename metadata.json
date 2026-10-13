@@ -1,0 +1,6 @@
+{
+  "name": "Dastarkhwan-e-Tehzeeb | Royal Awadhi & Mughlai Fine Dining",
+  "description": "An exquisite culinary sanctuary celebrating the majestic flavors and refined courtly traditions of Awadhi and Mughlai gastronomy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
